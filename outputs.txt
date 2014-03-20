@@ -1,0 +1,35 @@
+Server: Knock! Knock!
+Who's there?
+Client: Who's there?
+Server: Turnip
+Turnip who?
+Client: Turnip who?
+Server: Turnip the heat, it's cold in here! Want another? (y/n)
+y
+Client: y
+Server: Knock! Knock!
+Who's there?
+Client: Who's there?
+Server: Little Old Lady
+Little Old Lady who?
+Client: Little Old Lady who?
+Server: I didn't know you could yodel! Want another? (y/n)
+y
+Client: y
+Server: Knock! Knock!
+Who's there?
+Client: Who's there?
+Server: Atch
+Atch who?
+Client: Atch who?
+Server: Bless you! Want another? (y/n)
+y
+Client: y
+Server: Knock! Knock!
+Who's there?
+Client: Who's there?
+Server: Who
+Who who?
+Client: Who who?
+Server: Is there an owl in here? Want another? (y/n)
+
